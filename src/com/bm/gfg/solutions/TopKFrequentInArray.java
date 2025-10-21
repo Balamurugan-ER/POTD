@@ -61,6 +61,7 @@ import java.util.Map;
  * <a href="https://practice.geeksforgeeks.org/problems/top-k-frequent-in-array/1">
  * GeeksforGeeks – Top K Frequent in Array
  * </a>
+ * @author Balamurugan M
  */
 
 public class TopKFrequentInArray {
